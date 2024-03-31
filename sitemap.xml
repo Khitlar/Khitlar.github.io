@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Homepage -->
+    <url>
+        <loc>https://khitlar.github.io/</loc>
+    </url>
+
+    <!-- About Page -->
+    <url>
+        <loc>https://khitlar.github.io/about.html</loc>
+    </url>
+
+    <!-- Contact Page -->
+    <url>
+        <loc>https://khitlar.github.io/contact.html</loc>
+    </url>
+
+    <!-- Blog Posts -->
+    <url>
+        <loc>https://khitlar.github.io/fr_victor.html</loc>
+    </url>
+    <url>
+        <loc>https://khitlar.github.io/rc_saints.html</loc>
+    </url>
+
+</urlset>
